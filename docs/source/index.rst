@@ -18,3 +18,9 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
+
+
+
+Make sure you have followed the Crunchomics documentation - ‘Preparing Your Account’ and ‘Miniconda’ installation instructions. All the necessary information about the pipeline is in https://github.com/BleekerLab/snakemake_rnaseq. 
+
