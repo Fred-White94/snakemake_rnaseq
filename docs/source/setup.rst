@@ -7,15 +7,17 @@ First - ‘Preparing Your Account’ and ‘Miniconda’ installation instructio
 * Go to your personal directory
 
 .. code-block::	shell
-    cd ~/personal
+	cd ~/personal
 
 * Download the preprocessing pipeline from github
 
 .. code-block::	shell
-    git clone https://github.com/BleekerLab/snakemake_rnaseq
+	git clone https://github.com/BleekerLab/snakemake_rnaseq
 
 * Go to snakemake folder
 
 .. code-block::	shell
-    cd snakemake_rnaseq/
+	cd snakemake_rnaseq/
+
+
 
