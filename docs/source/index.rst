@@ -20,6 +20,7 @@ Be sure to che check out the `Crunchomics documentation <https://crunchomics-doc
 
    self
    setup.rst
+   hpc.rst
 
 
 Indices and tables

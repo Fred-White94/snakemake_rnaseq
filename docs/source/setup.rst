@@ -24,10 +24,37 @@ First - ‘Preparing Your Account’ and ‘Miniconda’ installation instructio
 
 
 
+
+Installation
+++++++++++++
+
+Install mamba to install the environment faster (than using conda)
+.. code-block::	shell
+
+	conda install -c conda-forge mamba
+
+Create the environment
+.. code-block::	shell
+
+	mamba env create --name rnaseq --file environment.yaml
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 To adjust the pipeline to your experiment, you need to modify some parameters. 
 
 
-For this you can either use a text editor for example `gedit <wiki.gnome.org/Apps/Gedit>`_ or you can download it using an ssh client like `Filezilla <https://filezilla-project.org/>`_ and open it on your own machine. 
+For this you can either use a text editor for example `gedit <https://wiki.gnome.org/Apps/Gedit>`_ or you can download it using an ssh client like `Filezilla <https://filezilla-project.org/>`_ and open it on your own machine. 
 
 The former is recommended. If you do the latter, make sure to upload the modified file and replace it.
 
