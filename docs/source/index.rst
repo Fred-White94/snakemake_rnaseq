@@ -7,12 +7,10 @@ Welcome to snakemake_rnaseq's documentation!
 ============================================
 
 
-Be sure to che check out the `Crunchomics documentation <https://crunchomics-documentation.readthedocs.io/en/latest/index.html>`_ - ‘Preparing Your Account’ and ‘Miniconda’ installation instructions. All the necessary information about the pipeline is in https://github.com/BleekerLab/snakemake_rnaseq. 
+Be sure to che check out the `Crunchomics documentation <https://crunchomics-documentation.readthedocs.io/en/latest/index.html>`_ 
 
 
 
-
-`MobaXterm <https://mobaxterm.mobatek.net/?gclid=CjwKCAiAkan9BRAqEiwAP9X6UaGJEwztxdR2mR-EKW5C7hyQPHwVvA3ypPrKCqQQEONI6LBwS6WsrRoC2a8QAvD_BwE/>`_
 
 
 
