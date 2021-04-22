@@ -10,6 +10,8 @@ Welcome to snakemake_rnaseq's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   self
+   setup.rst
 
 
 Indices and tables
