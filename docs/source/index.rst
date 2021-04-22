@@ -19,6 +19,7 @@ Be sure to che check out the `Crunchomics documentation <https://crunchomics-doc
    :caption: Contents:
 
    self
+   snakemake_rnaseq_readme.rst
    setup.rst
    hpc.rst
 
