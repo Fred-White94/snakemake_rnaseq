@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'snakemake_rnaseq'
-copyright = '2021, Marc Galland, Tijs Bliek, Jihed Chouaref, Fred White, Frans van der Kloet'
+copyright = '2021, Marc Galland, Tijs Bliek, Jihed Chouaref, Rita Guimaraes, Fred White, Frans van der Kloet'
 author = 'Marc Galland, Tijs Bliek, Jihed Chouaref, Rita Guimaraes, Fred White, Frans van der Kloet'
 
 # The full version, including alpha/beta/rc tags
